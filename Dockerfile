@@ -8,7 +8,7 @@
 # Contributors:
 #   Red Hat, Inc. - initial API and implementation
 
-FROM eclipse/che-theia:next
+FROM quay.io/eclipse/che-theia:7.27.2
 
 COPY branding ${HOME}/branding
 
