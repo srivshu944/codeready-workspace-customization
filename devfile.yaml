@@ -10,4 +10,4 @@ projects:
 components:
   - type: cheEditor
     reference: >-
-      https://raw.githubusercontent.com/che-samples/che-theia-branding-example/master/che-editor.meta.yaml
+      https://raw.githubusercontent.com/srivshu944/codeready-workspace-customization/master/che-editor.meta.yaml
