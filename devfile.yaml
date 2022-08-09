@@ -4,7 +4,7 @@ metadata:
 projects:
   - name: che-cheia-branding-example
     source:
-      location: 'https://github.com/che-samples/che-theia-branding-example.git'
+      location: 'https://github.com/Infineon/mtb-example-psoc6-csdidac.git'
       type: git
       branch: master
 components:
