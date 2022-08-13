@@ -48,7 +48,7 @@ spec:
         discoverable: false
   containers:
    - name: theia-ide
-     image: "registry.hub.docker.com/srivshu/codeready:branding"
+     image: "registry.hub.docker.com/srivshu/codeready:7.52.0"
      env:
          - name: THEIA_PLUGINS
            value: local-dir:///plugins
